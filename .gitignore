@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+staticfiles/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# AI tooling
+.claude/
+CLAUDE.md
+AGENTS.md
+.cursor/
+.cursorrules
+.windsurf*
+.github/copilot-instructions.md
+.aider*
+.continue/
+.codeium/
+
+# Personal notes
+INTERVIEW_GUIDE.md
